@@ -2,6 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React.js**
+- 🎓 B.Tech CSE @ JIS University | 2027
+- 💻 I work with Python, C++, JavaScript, and React
+- 🤔 Problem Solver Beginner
+
+
 
 - 📫 How to reach me **sayan.2022.nandi@gmail.com**
 
