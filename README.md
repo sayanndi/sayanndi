@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayan Nandi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **sayan.2022.nandi@gmail.com**
 
