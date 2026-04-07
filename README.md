@@ -83,16 +83,16 @@
 ### 📈 ML Learning Roadmap
 
 ```
-✅ Data Preprocessing & Cleaning
-✅ Exploratory Data Analysis (EDA)
-✅ Feature Encoding & Scaling
-✅ Logistic Regression | KNN | Naive Bayes
-✅ Model Evaluation (Precision, Recall, F1)
-✅ Feature Engineering
-🔄 Decision Trees & Random Forests    ← currently here
-⬜ Gradient Boosting (XGBoost, LightGBM)
-⬜ Neural Networks & Deep Learning
-⬜ Natural Language Processing (NLP)
+🧠 Foundations (Maths & Programming)
+📊 Data Preprocessing & Cleaning
+🔍 Exploratory Data Analysis (EDA)
+⚙️ Machine Learning Algorithms
+📈 Model Evaluation & Tuning
+🛠️ Feature Engineering
+🤖 Advanced ML & Deep Learning
+🧪 Real-World Projects
+🚀 Deployment & MLOps
+📚 Continuous Learning
 ```
 
 ---
@@ -116,28 +116,11 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanndi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sayan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanndi&theme=radical&hide_border=true&background=0D1117" alt="Sayan's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanndi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
 
 ### 💬 Quote I Live By
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-![Profile Views](https://komarev.com/ghpvc/?username=sayanndi&color=blueviolet&style=for-the-badge)
 
 </div>
