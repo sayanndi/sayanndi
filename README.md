@@ -47,7 +47,7 @@
     <td width="50%">
       <h3 align="center">🏦 Loan Approval Prediction</h3>
       <div align="center">
-        <a href="https://github.com/sayanndi" target="_blank">
+        <a href="https://github.com/sayanndi/Loan-approval-system" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </div>
