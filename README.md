@@ -1,91 +1,152 @@
-<h1 align="center">Hey folks👋, I'm Sayan Nandi</h1>
-<h3 align="center">A passionate Web Developer & ML Enthusiast from India 🇮🇳</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+```
+███████╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
+███████╗███████║ ╚████╔╝ ███████║██╔██╗ ██║
+╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
+███████║██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-- 🌱 I'm currently learning **React.js** & **Machine Learning**
-- 🎓 B.Tech CSE @ JIS University | 2027
-- 💻 I work with Python, C++, JavaScript, and React
-- 🤖 Exploring **ML algorithms**, **EDA**, and **Predictive Modeling**
-- 🔬 Recently built a **Loan Approval Prediction System** using Logistic Regression, KNN & Naive Bayes
-- 🤔 Problem Solver Beginner
-- 📫 How to reach me **sayan.2022.nandi@gmail.com**
-- ⚡ Fun fact **I think I am funny 😂**
+# Hi there, I'm Sayan Nandi 👋
+
+### 🤖 ML Enthusiast | 📊 Data Explorer | 🎓 CSE Undergrad
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Pattern+Finder+in+Data;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="ML GIF" width="380" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
+### 🧠 About Me
+
+- 🎓 **B.Tech CSE** @ JIS University | Batch of 2027
+- 🤖 Passionate about **Machine Learning** & **Data Science**
+- 📊 Love turning raw data into meaningful insights
+- 🔍 Currently exploring **ML algorithms** and **predictive modeling**
+- 🧪 Building real-world projects
+- 🤔 Beginner problem solver — learning every day
+- 📫 Reach me at **sayan.2022.nandi@gmail.com**
+- ⚡ Fun fact: **I think I am funny 😂**
+
+---
+
+### 🛠️ My ML & Data Science Stack
+
 <p align="left">
-<a href="https://linktr.ee/sayan_nandi5" target="blank"></a>
-<a href="https://twitter.com/sayan2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan2027" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sayan-nandi-31887628b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-nandi-31887628b" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🚀 ML Projects
 
-<h4 align="left">💻 Development</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 Loan Approval Prediction</h3>
+      <div align="center">
+        <a href="https://github.com/sayanndi" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        End-to-end ML pipeline on Kaggle loan dataset.<br/>
+        Missing values → EDA → Encoding → Scaling → Evaluation.<br/>
+        <b>Best Model:</b> Logistic Regression (Precision)
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Logistic%20Regression-Best-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/KNN-tested-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Naive%20Bayes-tested-blue?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔬 More Coming Soon...</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge"/>
+      </div>
+      <br/>
+      <p align="center">
+        Expanding into Deep Learning,<br/>
+        NLP, and advanced feature engineering.<br/>
+        Stay tuned! 🚧
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h4 align="left">🤖 Machine Learning & Data Science</h4>
+---
+
+### 📈 ML Learning Roadmap
+
+```
+✅ Data Preprocessing & Cleaning
+✅ Exploratory Data Analysis (EDA)
+✅ Feature Encoding & Scaling
+✅ Logistic Regression | KNN | Naive Bayes
+✅ Model Evaluation (Precision, Recall, F1)
+✅ Feature Engineering
+🔄 Decision Trees & Random Forests    ← currently here
+⬜ Gradient Boosting (XGBoost, LightGBM)
+⬜ Neural Networks & Deep Learning
+⬜ Natural Language Processing (NLP)
+```
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <a href="https://twitter.com/sayan2027" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/sayan-nandi-31887628b/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <a href="https://linktr.ee/sayan_nandi5" target="blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <a href="mailto:sayan.2022.nandi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🔬 ML Projects:</h3>
+### 📊 GitHub Stats
 
-| Project | Description | Tools Used |
-|---|---|---|
-| 🏦 [Loan Approval Prediction](https://github.com/sayanndi) | Predicts loan approval using classification models. Best result with Logistic Regression (precision). | Pandas, Seaborn, Scikit-learn |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayanndi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sayan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanndi&theme=radical&hide_border=true&background=0D1117" alt="Sayan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanndi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanndi&show_icons=true&locale=en&theme=tokyonight" alt="sayanndi" /></p>
+### 💬 Quote I Live By
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanndi&theme=tokyonight" alt="sayanndi" /></p>
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanndi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sayanndi" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=sayanndi&color=blueviolet&style=for-the-badge)
+
+</div>
